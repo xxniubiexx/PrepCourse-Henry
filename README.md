@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un respositorio de pruebo del modulo 2 del prepcourse de henry
+Diego Nicolas Pestorich
+Este proyecto es una prueba de como crear y clonar un repositorio 
